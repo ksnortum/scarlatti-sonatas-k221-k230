@@ -685,7 +685,6 @@ dynamics = {
 }
 
 tempi = {
-  % TODO \set Score.tempoHideNote = ##t
   \repeat volta 2 {
     \tempo "Moderato" 4 = 92
     s2*64 |
